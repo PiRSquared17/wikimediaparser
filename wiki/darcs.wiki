@@ -1,3 +1,1 @@
-#summary One-sentence summary of this page.
-
 The repository for this project is on [http://patch-tag.com/repo/WikimediaParser/home patch-tag], follow instructions there for gaining commit access, or darcs send patches to tehgeekmeister@gmail.com.
