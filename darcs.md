@@ -1,0 +1,1 @@
+The repository for this project is on [patch-tag](http://patch-tag.com/r/tehgeekmeister/WikimediaParser), follow instructions there for gaining commit access, or darcs send patches to tehgeekmeister@gmail.com.
